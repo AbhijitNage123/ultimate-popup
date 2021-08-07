@@ -1,0 +1,27 @@
+/** @format */
+
+.addBlockButton {
+	color: $blue-wordpress;
+}
+
+.addBlockButtonDark {
+	color: $blue-30;
+}
+
+.list {
+	padding-bottom: 20;
+	padding-top: 8;
+}
+
+.inserter-tabs__wrapper {
+	overflow: hidden;
+}
+
+.inserter-tabs__container {
+	height: 100%;
+	width: 100%;
+}
+
+.inserter-tabs__item {
+	position: absolute;
+}
